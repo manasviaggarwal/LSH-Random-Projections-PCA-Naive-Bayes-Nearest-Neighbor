@@ -1,8 +1,7 @@
-# tipr-first-assignment
-Hola, amigos!
+# TIPR
 
-This is going to be the first assignment of TIPR-2019. The problems in this assignment revolve around the concepts like Locality sensitive hashing(LSH), Random Projections and PCA. These are techniques for converting higher-dimensional data to lower-dimension without losing significant information.
+tipr-first-assignment
 
-It also encompasses two very important classifiers - Naive Bayes and Nearest Neighbour. You'll be evaluating the performance of these classifiers on various real-life datasets.
+This is the first assignment of TIPR-2019. The problems in this assignment revolve around the concepts like Locality sensitive hashing(LSH), Random Projections and PCA. These are techniques for converting higher-dimensional data to lower-dimension without losing significant information.
 
-Hope you all will enjoy the assignment. Best of luck. HAPPY PYTHONING!
+It also encompasses two very important classifiers - Naive Bayes and Nearest Neighbour. 
